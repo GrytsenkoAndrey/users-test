@@ -2,6 +2,8 @@
 
 - clone repository to the folder
 
+- go inside folder `cd <your_folder_with_project>`
+
 - run command `cp .env.example .env`
 
 - set next variables
